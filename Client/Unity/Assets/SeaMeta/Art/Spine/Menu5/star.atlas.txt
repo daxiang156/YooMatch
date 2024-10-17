@@ -1,0 +1,20 @@
+
+star.png
+size: 235,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_00
+  rotate: true
+  xy: 2, 2
+  size: 187, 189
+  orig: 200, 200
+  offset: 7, 4
+  index: -1
+star_yellow
+  rotate: false
+  xy: 193, 148
+  size: 40, 41
+  orig: 42, 41
+  offset: 1, 0
+  index: -1

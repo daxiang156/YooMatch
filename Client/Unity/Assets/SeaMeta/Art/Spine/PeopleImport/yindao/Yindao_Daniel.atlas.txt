@@ -1,0 +1,167 @@
+
+Yindao_Daniel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T
+  rotate: false
+  xy: 0, 155
+  size: 134, 357
+  orig: 134, 357
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: false
+  xy: 433, 142
+  size: 43, 68
+  orig: 43, 76
+  offset: 0, 1
+  index: -1
+gaoguangL
+  rotate: false
+  xy: 180, 199
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+gaoguangR
+  rotate: false
+  xy: 180, 191
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+geboL
+  rotate: true
+  xy: 136, 207
+  size: 76, 209
+  orig: 102, 239
+  offset: 26, 30
+  index: -1
+geboR
+  rotate: true
+  xy: 198, 27
+  size: 178, 233
+  orig: 178, 233
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 458, 75
+  size: 65, 35
+  orig: 66, 35
+  offset: 1, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 347, 234
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 458, 37
+  size: 22, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+meimaoL
+  rotate: true
+  xy: 482, 45
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: false
+  xy: 458, 14
+  size: 36, 21
+  orig: 36, 23
+  offset: 0, 2
+  index: -1
+shengL
+  rotate: false
+  xy: 433, 26
+  size: 23, 114
+  orig: 23, 114
+  offset: 0, 0
+  index: -1
+shengLyz
+  rotate: false
+  xy: 429, 374
+  size: 19, 114
+  orig: 23, 114
+  offset: 4, 0
+  index: -1
+shengR
+  rotate: false
+  xy: 495, 101
+  size: 17, 109
+  orig: 17, 109
+  offset: 0, 0
+  index: -1
+shengRyz
+  rotate: true
+  xy: 387, 212
+  size: 20, 125
+  orig: 22, 127
+  offset: 1, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 347, 208
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 2
+  size: 151, 196
+  orig: 151, 208
+  offset: 0, 12
+  index: -1
+waitao
+  rotate: true
+  xy: 136, 285
+  size: 227, 291
+  orig: 227, 348
+  offset: 0, 55
+  index: -1
+yachi
+  rotate: false
+  xy: 136, 188
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 170, 161
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 136, 160
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+yanzhuL
+  rotate: false
+  xy: 495, 80
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yanzhuR
+  rotate: true
+  xy: 429, 490
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1

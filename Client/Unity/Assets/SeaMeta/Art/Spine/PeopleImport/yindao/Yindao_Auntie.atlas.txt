@@ -1,0 +1,139 @@
+
+Yindao_Auntie.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 213, 153
+  size: 86, 12
+  orig: 86, 12
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 207, 39
+  size: 93, 202
+  orig: 93, 202
+  offset: 0, 0
+  index: -1
+11s
+  rotate: true
+  xy: 213, 167
+  size: 199, 159
+  orig: 199, 159
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 221, 428
+  size: 84, 197
+  orig: 84, 197
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 0, 627
+  size: 253, 394
+  orig: 280, 401
+  offset: 27, 0
+  index: -1
+14
+  rotate: false
+  xy: 255, 643
+  size: 79, 184
+  orig: 79, 184
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 0, 134
+  size: 211, 232
+  orig: 211, 232
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 207, 2
+  size: 35, 21
+  orig: 41, 29
+  offset: 6, 8
+  index: -1
+3
+  rotate: false
+  xy: 361, 6
+  size: 69, 31
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 336, 663
+  size: 164, 140
+  orig: 166, 140
+  offset: 2, 0
+  index: -1
+5
+  rotate: false
+  xy: 0, 368
+  size: 219, 257
+  orig: 219, 257
+  offset: 0, 0
+  index: -1
+5a
+  rotate: false
+  xy: 221, 377
+  size: 43, 49
+  orig: 46, 56
+  offset: 3, 5
+  index: -1
+6
+  rotate: false
+  xy: 230, 5
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 0, 0
+  size: 132, 205
+  orig: 132, 205
+  offset: 0, 0
+  index: -1
+7a
+  rotate: false
+  xy: 307, 471
+  size: 90, 170
+  orig: 96, 176
+  offset: 6, 0
+  index: -1
+8
+  rotate: false
+  xy: 255, 829
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 449, 871
+  size: 150, 59
+  orig: 154, 59
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 295, 5
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+e2
+  rotate: true
+  xy: 328, 5
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

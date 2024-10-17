@@ -1,0 +1,104 @@
+
+Yindao_Carter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 181
+  size: 256, 362
+  orig: 256, 362
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 0, 1
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 43, 0
+  size: 76, 12
+  orig: 76, 12
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 240, 26
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 0, 58
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 53, 60
+  size: 119, 302
+  orig: 119, 302
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 357, 162
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+3s
+  rotate: false
+  xy: 105, 16
+  size: 33, 42
+  orig: 42, 44
+  offset: 9, 0
+  index: -1
+4
+  rotate: false
+  xy: 168, 24
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 140, 17
+  size: 41, 26
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 43, 14
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 258, 263
+  size: 221, 280
+  orig: 225, 280
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 0, 545
+  size: 322, 476
+  orig: 348, 476
+  offset: 26, 0
+  index: -1
+9
+  rotate: true
+  xy: 26, 5
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1

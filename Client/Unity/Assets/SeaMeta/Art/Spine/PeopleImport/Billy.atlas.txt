@@ -1,0 +1,188 @@
+
+Billy.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang_tou
+  rotate: true
+  xy: 303, 1346
+  size: 295, 313
+  orig: 309, 317
+  offset: 14, 4
+  index: -1
+bugaoxing_shenti
+  rotate: true
+  xy: 1221, 757
+  size: 496, 370
+  orig: 496, 373
+  offset: 0, 1
+  index: -1
+bugaoxing_tou
+  rotate: true
+  xy: 1176, 1591
+  size: 279, 302
+  orig: 311, 302
+  offset: 32, 0
+  index: -1
+bugaoxing_tui
+  rotate: false
+  xy: 860, 1622
+  size: 314, 276
+  orig: 314, 276
+  offset: 0, 0
+  index: -1
+cahan_shangshoubi
+  rotate: true
+  xy: 792, 1903
+  size: 137, 228
+  orig: 137, 228
+  offset: 0, 0
+  index: -1
+cahan_shenti
+  rotate: false
+  xy: 352, 966
+  size: 413, 350
+  orig: 413, 350
+  offset: 0, 0
+  index: -1
+cahan_shoubi
+  rotate: false
+  xy: 73, 1923
+  size: 166, 117
+  orig: 166, 118
+  offset: 0, 0
+  index: -1
+cahan_tou
+  rotate: false
+  xy: 1281, 1255
+  size: 342, 312
+  orig: 344, 318
+  offset: 1, 6
+  index: -1
+cahan_tui
+  rotate: true
+  xy: 960, 1281
+  size: 308, 319
+  orig: 308, 319
+  offset: 0, 0
+  index: -1
+cahan_zshomaojin
+  rotate: false
+  xy: 1782, 1772
+  size: 185, 268
+  orig: 191, 269
+  offset: 5, 0
+  index: -1
+dadianhua_shenti
+  rotate: false
+  xy: 1625, 1121
+  size: 402, 346
+  orig: 402, 346
+  offset: 0, 0
+  index: -1
+dadianhua_shoubi
+  rotate: true
+  xy: 241, 1917
+  size: 123, 323
+  orig: 123, 323
+  offset: 0, 0
+  index: -1
+daiji_tou
+  rotate: false
+  xy: 1480, 1569
+  size: 279, 301
+  orig: 311, 301
+  offset: 32, 0
+  index: -1
+jinghuang_tou
+  rotate: true
+  xy: 0, 1391
+  size: 293, 301
+  orig: 309, 301
+  offset: 16, 0
+  index: -1
+kaixin_shenti
+  rotate: false
+  xy: 767, 913
+  size: 452, 366
+  orig: 452, 373
+  offset: 0, 1
+  index: -1
+kaixin_tou
+  rotate: false
+  xy: 1761, 1469
+  size: 279, 301
+  orig: 311, 301
+  offset: 32, 0
+  index: -1
+kaixinjushou_shenti
+  rotate: true
+  xy: 0, 599
+  size: 365, 562
+  orig: 393, 564
+  offset: 0, 0
+  index: -1
+kaixinjushou_shoubi
+  rotate: true
+  xy: 1428, 1872
+  size: 168, 352
+  orig: 173, 359
+  offset: 5, 7
+  index: -1
+maojin
+  rotate: true
+  xy: 566, 1914
+  size: 126, 224
+  orig: 126, 224
+  offset: 0, 0
+  index: -1
+paobu_maojin
+  rotate: true
+  xy: 588, 1643
+  size: 258, 270
+  orig: 259, 271
+  offset: 1, 1
+  index: -1
+paobu_shenti
+  rotate: true
+  xy: 0, 995
+  size: 349, 350
+  orig: 349, 351
+  offset: 0, 0
+  index: -1
+paobu_tou
+  rotate: false
+  xy: 618, 1318
+  size: 340, 302
+  orig: 341, 317
+  offset: 0, 15
+  index: -1
+paobu_tui
+  rotate: false
+  xy: 0, 1686
+  size: 314, 229
+  orig: 314, 229
+  offset: 0, 0
+  index: -1
+paobu_yshoubi
+  rotate: true
+  xy: 1022, 1900
+  size: 140, 404
+  orig: 140, 404
+  offset: 0, 0
+  index: -1
+paobu_zshoubi
+  rotate: false
+  xy: 316, 1660
+  size: 270, 252
+  orig: 270, 254
+  offset: 0, 1
+  index: -1
+qipao
+  rotate: false
+  xy: 0, 1973
+  size: 71, 67
+  orig: 73, 67
+  offset: 1, 0
+  index: -1

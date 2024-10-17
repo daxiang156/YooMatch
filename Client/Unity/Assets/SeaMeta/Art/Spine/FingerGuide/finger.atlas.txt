@@ -1,0 +1,20 @@
+
+finger.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: true
+  xy: 60, 0
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 0, 42
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1

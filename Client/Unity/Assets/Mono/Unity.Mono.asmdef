@@ -1,0 +1,20 @@
+{
+    "name": "Unity.Mono",
+    "rootNamespace": "",
+    "references": [
+        "Unity.ThirdParty",
+        "Unity.DoTween",
+        "spine-unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

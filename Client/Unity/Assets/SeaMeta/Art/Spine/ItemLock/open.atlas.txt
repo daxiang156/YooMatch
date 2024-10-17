@@ -1,0 +1,55 @@
+
+open.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_tuan
+  rotate: false
+  xy: 61, 2
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+gq_1
+  rotate: false
+  xy: 61, 44
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+star_yellow
+  rotate: true
+  xy: 112, 41
+  size: 40, 41
+  orig: 42, 41
+  offset: 1, 0
+  index: -1
+xing
+  rotate: true
+  xy: 2, 38
+  size: 55, 57
+  orig: 59, 61
+  offset: 2, 2
+  index: -1
+yan
+  rotate: false
+  xy: 136, 83
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 136, 149
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+yaoshi
+  rotate: false
+  xy: 2, 95
+  size: 132, 129
+  orig: 132, 129
+  offset: 0, 0
+  index: -1

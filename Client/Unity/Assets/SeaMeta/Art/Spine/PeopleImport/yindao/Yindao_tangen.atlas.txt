@@ -1,0 +1,153 @@
+
+Yindao_tangen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabiL
+  rotate: false
+  xy: 0, 3
+  size: 151, 202
+  orig: 151, 202
+  offset: 0, 0
+  index: -1
+dabiR
+  rotate: false
+  xy: 259, 326
+  size: 150, 186
+  orig: 150, 186
+  offset: 0, 0
+  index: -1
+gaoguangL
+  rotate: false
+  xy: 432, 181
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+gaoguangR
+  rotate: false
+  xy: 488, 321
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 489, 462
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 432, 188
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 432, 230
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+meimaoL
+  rotate: false
+  xy: 153, 3
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: true
+  xy: 489, 416
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 207
+  size: 257, 305
+  orig: 257, 305
+  offset: 0, 0
+  index: -1
+shouL
+  rotate: true
+  xy: 411, 328
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: true
+  xy: 411, 404
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 259, 176
+  size: 148, 171
+  orig: 148, 171
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 153, 17
+  size: 188, 102
+  orig: 192, 143
+  offset: 2, 41
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 406, 36
+  size: 104, 138
+  orig: 104, 138
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: false
+  xy: 257, 38
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+ya
+  rotate: true
+  xy: 505, 423
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 304, 11
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 257, 6
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+yanzhuL
+  rotate: false
+  xy: 336, 16
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yanzhuR
+  rotate: false
+  xy: 358, 16
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

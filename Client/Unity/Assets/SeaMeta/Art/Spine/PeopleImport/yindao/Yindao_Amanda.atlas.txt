@@ -1,0 +1,132 @@
+
+Yindao_Amanda.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabiL
+  rotate: true
+  xy: 0, 104
+  size: 90, 188
+  orig: 90, 188
+  offset: 0, 0
+  index: -1
+erhuanL
+  rotate: false
+  xy: 162, 22
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+erhuanR
+  rotate: true
+  xy: 201, 19
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+gaoguangL
+  rotate: true
+  xy: 452, 271
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+gaoguangR
+  rotate: true
+  xy: 461, 271
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 443, 80
+  size: 181, 43
+  orig: 194, 75
+  offset: 7, 32
+  index: -1
+meimaoL
+  rotate: true
+  xy: 488, 237
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: false
+  xy: 243, 21
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: false
+  xy: 0, 196
+  size: 217, 315
+  orig: 217, 315
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: false
+  xy: 219, 52
+  size: 222, 209
+  orig: 222, 209
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 219, 263
+  size: 231, 248
+  orig: 231, 248
+  offset: 0, 0
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 0, 25
+  size: 160, 77
+  orig: 160, 77
+  offset: 0, 0
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 162, 62
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+yanbaiR
+  rotate: true
+  xy: 452, 278
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+yanzhuL
+  rotate: true
+  xy: 190, 166
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 452, 342
+  size: 169, 42
+  orig: 169, 163
+  offset: 0, 121
+  index: -1
+yznhuR
+  rotate: true
+  xy: 190, 136
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 443, 5
+  size: 73, 50
+  orig: 73, 53
+  offset: 0, 3
+  index: -1

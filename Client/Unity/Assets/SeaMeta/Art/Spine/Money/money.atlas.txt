@@ -1,0 +1,48 @@
+
+money.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_tuan
+  rotate: false
+  xy: 199, 7
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+gq_1
+  rotate: false
+  xy: 105, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 2, 29
+  size: 101, 75
+  orig: 101, 77
+  offset: 0, 1
+  index: -1
+money2
+  rotate: false
+  xy: 105, 53
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+star_yellow
+  rotate: true
+  xy: 156, 7
+  size: 40, 41
+  orig: 42, 41
+  offset: 1, 0
+  index: -1
+xing
+  rotate: true
+  xy: 176, 49
+  size: 55, 57
+  orig: 59, 61
+  offset: 2, 2
+  index: -1

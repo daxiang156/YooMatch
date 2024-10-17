@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: 4af8f3759d02b9fed5c0cbb5b4f76675
+  gameAnalyticsAndroidSecretKey: 5ccc8ce54f15aa8127a7d0950e9b5ea9059ddab2
+  facebookAppId: 964020648069268
+  facebookClientToken: 1807ee14b4526d149505a4d1edc4d694
+  adjustIOSToken: 
+  adjustAndroidToken: r269qii0myv4
+  EditorIdfa: e3642783-2140-4b12-b70f-1a97eea7e11c
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: kometgames
+  privacyPolicyURL: https://www.adslego.com/privacy-policy
+  developerContactEmail: joe@kometgames.com

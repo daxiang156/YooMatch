@@ -1,0 +1,20 @@
+
+Yindaoquanquan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 410, 516
+  size: 451, 345
+  orig: 454, 345
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 525
+  size: 406, 336
+  orig: 406, 336
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+BillyFishing_Entry.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B光1
+  rotate: true
+  xy: 404, 214
+  size: 85, 88
+  orig: 85, 96
+  offset: 0, 7
+  index: -1
+X_1
+  rotate: false
+  xy: 175, 242
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+beiqi
+  rotate: true
+  xy: 236, 205
+  size: 126, 166
+  orig: 136, 205
+  offset: 10, 39
+  index: -1
+biaoqian
+  rotate: true
+  xy: 424, 301
+  size: 210, 68
+  orig: 210, 68
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: true
+  xy: 494, 468
+  size: 8, 10
+  orig: 9, 11
+  offset: 1, 0
+  index: -1
+miaobian
+  rotate: false
+  xy: 1, 291
+  size: 233, 220
+  orig: 233, 220
+  offset: 0, 0
+  index: -1
+qiL
+  rotate: true
+  xy: 404, 144
+  size: 68, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+qiR
+  rotate: true
+  xy: 77, 263
+  size: 26, 96
+  orig: 26, 96
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 236, 333
+  size: 178, 186
+  orig: 184, 210
+  offset: 6, 24
+  index: -1
+yanbai
+  rotate: false
+  xy: 494, 495
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 494, 478
+  size: 16, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1, 220
+  size: 69, 74
+  orig: 77, 79
+  offset: 8, 5
+  index: -1

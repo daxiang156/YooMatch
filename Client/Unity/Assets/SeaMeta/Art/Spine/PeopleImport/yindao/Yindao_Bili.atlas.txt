@@ -1,0 +1,153 @@
+
+Yindao_Bili.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 183, 6
+  size: 31, 23
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+gaoguangL
+  rotate: false
+  xy: 335, 67
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+gaoguangR
+  rotate: false
+  xy: 325, 66
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+geboR
+  rotate: true
+  xy: 211, 76
+  size: 96, 151
+  orig: 102, 155
+  offset: 6, 4
+  index: -1
+kouqiang
+  rotate: false
+  xy: 1, 12
+  size: 74, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 325, 3
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 211, 1
+  size: 112, 73
+  orig: 112, 73
+  offset: 0, 0
+  index: -1
+meimaoL
+  rotate: false
+  xy: 148, 11
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: false
+  xy: 77, 1
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 254
+  size: 241, 255
+  orig: 249, 287
+  offset: 5, 32
+  index: -1
+tou2
+  rotate: true
+  xy: 1, 59
+  size: 193, 208
+  orig: 209, 209
+  offset: 16, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 244, 323
+  size: 81, 117
+  orig: 85, 123
+  offset: 0, 6
+  index: -1
+yachi
+  rotate: false
+  xy: 148, 39
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 397, 15
+  size: 101, 44
+  orig: 101, 48
+  offset: 0, 4
+  index: -1
+yanqiuL
+  rotate: false
+  xy: 111, 28
+  size: 35, 29
+  orig: 37, 34
+  offset: 1, 4
+  index: -1
+yanqiuR
+  rotate: false
+  xy: 77, 27
+  size: 32, 30
+  orig: 32, 32
+  offset: 0, 2
+  index: -1
+yaobao
+  rotate: false
+  xy: 211, 174
+  size: 233, 78
+  orig: 233, 78
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 244, 442
+  size: 124, 67
+  orig: 124, 67
+  offset: 0, 0
+  index: -1
+yzL
+  rotate: true
+  xy: 327, 336
+  size: 78, 109
+  orig: 80, 114
+  offset: 0, 0
+  index: -1
+yzR
+  rotate: true
+  xy: 370, 416
+  size: 93, 83
+  orig: 95, 85
+  offset: 0, 2
+  index: -1
+zuoshohu
+  rotate: true
+  xy: 364, 61
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
