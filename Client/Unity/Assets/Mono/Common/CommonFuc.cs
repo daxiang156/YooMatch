@@ -73,7 +73,6 @@ namespace ET
         public static bool IsMainCity()
         {
             Scene scene = SceneManager.GetActiveScene ();
-            string sceneName;
             if (scene.name == "scene_City")
             {
                 return true;

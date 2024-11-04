@@ -42,13 +42,17 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets\Plugins\Android" />
+     <Folder Include="Assets\Plugins\UniWebView.bundle\Contents\_CodeSignature" />
      <Folder Include="Assets\Plugins\MacOS" />
      <Folder Include="Assets\Plugins" />
      <Folder Include="Assets\Plugins\Android\libs\x86" />
      <Folder Include="Assets\Plugins\Android\libs\arm64-v8a" />
      <Folder Include="Assets\Plugins\Android\libs\armeabi-v7a" />
+     <Folder Include="Assets\Plugins\UniWebView.bundle\Contents" />
+     <Folder Include="Assets\Plugins\UniWebView.bundle\Contents\MacOS" />
      <Folder Include="Assets\Plugins\iOS" />
      <Folder Include="Assets\Plugins\x86" />
+     <Folder Include="Assets\Plugins\UniWebView.bundle" />
      <Folder Include="Assets\Plugins\Android\libs" />
      <Folder Include="Assets\Plugins\x86_64" />
      <Reference Include="UnityEngine">

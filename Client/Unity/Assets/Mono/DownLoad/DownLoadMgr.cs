@@ -110,7 +110,7 @@ namespace ET.DownLoad
 				return;
             }
 	        // 获取远程的Version.txt
-	        string versionUrl = "";
+	        //string versionUrl = "";
 	        // 获取streaming目录的Version.txt
 	        string versionPath = Path.Combine(PathHelper.AppResPath4Web, "Version.txt");
 			Log.Info("versionPath::" + versionPath);

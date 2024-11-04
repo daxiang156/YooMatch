@@ -21,7 +21,7 @@ namespace ET
         public static UIDownLoad instance;
         private bool IsLoadCode = false;
         private Action callBack;
-        private bool ConfigABState = false;
+        //private bool ConfigABState = false;
         private void Start()
         {
             EventDispatcher.AddObserver(this, EventName.LoadingCloseListen, (object[] info) =>
@@ -39,7 +39,7 @@ namespace ET
             }, null);
             EventDispatcher.AddObserver(this,EventName.ConfigABLoadFinish , (object[] info) =>
             {
-                ConfigABState = true;
+                //ConfigABState = true;
                 if(this.slider.value == 1)
                     this.EndLoadMainCity();
                 return false;

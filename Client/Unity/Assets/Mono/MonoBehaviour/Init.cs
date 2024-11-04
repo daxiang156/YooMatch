@@ -16,12 +16,16 @@ namespace ET
 		public static GameObject Global;
 		public CodeMode CodeMode = CodeMode.Mono;
 		
+		
+		public int level = 0;
+		
 		private void Awake()
 		{
 #if ENABLE_IL2CPP
 			this.CodeMode = CodeMode.ILRuntime;
 #endif
 			GameDataMgr.Instance.Init();
+			GameDataMgr.Instance.skipLv = level;
 			System.AppDomain.CurrentDomain.UnhandledException += (sender, e) =>
 			{
 				Log.Error(e.ExceptionObject.ToString());

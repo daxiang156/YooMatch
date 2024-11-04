@@ -85,25 +85,6 @@ namespace ET
         public const string OtherPlayerLeft = "OtherPlayerLeft";
         public const string ChangeScene = "ChangeScene"; //从副本退出需要离开光子房间
 
-        //Photon
-        public const string PhotonLeaveRoom = "PhotonLeaveRoom"; //游戏后台时间长一点之后重新加入光子
-        
-        //Photon disconnect 断线重连
-        public const string PhotonDisconnected = "PhotonDisconnected"; //经过尝试，光子无法链接，断开光子链接
-        public const string PhotonCannotConnect = "PhotonCannotConnect"; //经过尝试，光子无法链接，断开光子链接
-        public const string PhotonCanConnect = "PhotonCanConnect"; //光子可以连接
-        public const string PhotonReconnected = "PhotonReconnected"; //重连光子, 回到房间
-        public const string PhotonReconnected_ToLobby = "PhotonReconnected_ToLobby"; //重连光子, 没有回到房间
-        public const string ReconnectPhoton = "ReconnectPhoton";
-        public const string PhotonReconnecting = "PhotonReconnecting"; //脚本间通信，正在光子重连
-        public const string BotAIAdded = "BotAIAdded"; //光子重连，重新启动机器人
-        public const string PhotonCannotReconnect = "PhotonCannotReconnect"; //光子无法重连
-        public const string PhotonGoBackToCity = "PhotonGoBackToCity"; //光子无法链接, 直接回到主城
-        public const string PhotonHardDisconnect = "PhotonHardDisconnect";
-        public const string PhotonStopReconnecting = "PhotonStopReconnecting";
-        public const string SpawnPlayerV2Reconnect = "SpawnPlayerV2Reconnect";
-        public const string EnterOrExitMainCity = "EnterOrExitMainCity";//1,进入主城。2，退出主城
-
         //loading screen
         public const string LoadingScreenClosed = "LoadingScreenClosed";
 
@@ -216,11 +197,7 @@ namespace ET
         public const string CameraRendMode = "CameraRendMode";
         public const string ShowHeroRoad = "ShowHeroRoad";
         public const string ShowGameTpsControl = "ShowGameTpsControl";
-        public const string LoginErrCatch = "LoginErrCatch";
-        public const string RealErrCatch = "RealErrCatch";
-        public const string GateErrCatch = "GateErrCatch";
         public const string ApplicationFocus = "ApplicationFocus";
-        public const string DisAndConnect = "DisAndConnect";
 
         public const string NoticeSkinWear = "NoticeSkinWear";
         public const string NoticeSkinApperance = "NoticeSkinApperance";
@@ -273,7 +250,6 @@ namespace ET
         public const string IsPhotonConnect = "IsPhotonConnect";
         public const string CheckOurSerConnect = "CheckOurSerConnect";
         public const string ConnectMySerInGame = "ConnectMySerInGame";
-        public const string ConnectDis = "ConnectDis";
         
         public const string MBAgain = "MBAgain";
         public const string MBAgainAlready = "MBAgainAlready";
@@ -369,12 +345,6 @@ namespace ET
         
         public const string ClickFruit = "ClickFruit";
         
-        //VirtualSUN: Quantum.
-        public const string HeroSkinChangeLocal = "HeroSkinChangeLocal";
-        public const string HeroSkinChangeNetwork = "HeroSkinChangeNetwork";
-        public const string HeroWeaponSkinChangeLocal = "HeroWeaponSkinChangeLocal";
-        public const string HeroWeaponSkinChangeNetwork = "HeroWeaponSkinChangeNetwork";
-
         public const string GetHeroModel= "StartLoadModel";
         public const string GetHeroModelFinish = "GetHeroModelFinish";
 
