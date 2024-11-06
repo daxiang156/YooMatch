@@ -128,7 +128,7 @@ namespace ET
 //            Dictionary<string,List<string>> modelDic = ModelHelper.Instance.RandomModelList(dogNum);
             int realIndex = 0;
             List<int> peoList = new List<int>();
-            for (int i = 1; i <= 4; i++)
+            for (int i = 1; i <= 6; i++)
             {
                 peoList.Add(i);
             }

@@ -1,0 +1,160 @@
+
+nv2.png
+size: 640,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv2_body
+  rotate: false
+  xy: 310, 94
+  size: 110, 173
+  orig: 110, 173
+  offset: 0, 0
+  index: -1
+nv2_dao
+  rotate: false
+  xy: 222, 86
+  size: 86, 181
+  orig: 86, 181
+  offset: 0, 0
+  index: -1
+nv2_fa1
+  rotate: false
+  xy: 491, 97
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+nv2_fa2
+  rotate: false
+  xy: 2, 2
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+nv2_fa3
+  rotate: false
+  xy: 422, 97
+  size: 67, 170
+  orig: 67, 170
+  offset: 0, 0
+  index: -1
+nv2_fa4
+  rotate: false
+  xy: 462, 20
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+nv2_face
+  rotate: false
+  xy: 368, 8
+  size: 92, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+nv2_foot1
+  rotate: false
+  xy: 2, 49
+  size: 73, 218
+  orig: 73, 218
+  offset: 0, 0
+  index: -1
+nv2_foot2
+  rotate: false
+  xy: 77, 59
+  size: 58, 208
+  orig: 58, 208
+  offset: 0, 0
+  index: -1
+nv2_handL1
+  rotate: true
+  xy: 74, 3
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+nv2_handL2
+  rotate: false
+  xy: 560, 99
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+nv2_handR1
+  rotate: true
+  xy: 130, 9
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+nv2_handR2
+  rotate: true
+  xy: 527, 52
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+nv2_jianL
+  rotate: false
+  xy: 234, 4
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+nv2_jianR
+  rotate: false
+  xy: 298, 6
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+nv2_maozi
+  rotate: true
+  xy: 137, 83
+  size: 184, 83
+  orig: 184, 83
+  offset: 0, 0
+  index: -1
+nv2_meiL
+  rotate: false
+  xy: 137, 63
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+nv2_meiR
+  rotate: false
+  xy: 169, 63
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+nv2_qun
+  rotate: false
+  xy: 491, 163
+  size: 147, 104
+  orig: 147, 104
+  offset: 0, 0
+  index: -1
+nv2_yanbai1
+  rotate: true
+  xy: 527, 11
+  size: 39, 27
+  orig: 92, 84
+  offset: 1, 25
+  index: -1
+nv2_yanbai2
+  rotate: true
+  xy: 42, 2
+  size: 45, 30
+  orig: 92, 84
+  offset: 37, 26
+  index: -1
+nv2_yanzhu1
+  rotate: true
+  xy: 201, 63
+  size: 18, 16
+  orig: 92, 84
+  offset: 11, 29
+  index: -1

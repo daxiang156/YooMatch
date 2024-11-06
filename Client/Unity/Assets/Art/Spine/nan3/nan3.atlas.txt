@@ -1,0 +1,111 @@
+
+nan3.png
+size: 671,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan3_body
+  rotate: false
+  xy: 2, 58
+  size: 173, 210
+  orig: 173, 210
+  offset: 0, 0
+  index: -1
+nan3_foot1
+  rotate: false
+  xy: 177, 71
+  size: 143, 197
+  orig: 143, 197
+  offset: 0, 0
+  index: -1
+nan3_foot2
+  rotate: false
+  xy: 322, 77
+  size: 122, 191
+  orig: 122, 191
+  offset: 0, 0
+  index: -1
+nan3_handL
+  rotate: false
+  xy: 446, 79
+  size: 113, 189
+  orig: 113, 189
+  offset: 0, 0
+  index: -1
+nan3_handR1
+  rotate: false
+  xy: 177, 3
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+nan3_handR2
+  rotate: true
+  xy: 372, 2
+  size: 73, 143
+  orig: 74, 143
+  offset: 1, 0
+  index: -1
+nan3_maozi
+  rotate: true
+  xy: 561, 119
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+nan3_mei1
+  rotate: true
+  xy: 2, 15
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+nan3_mei2
+  rotate: false
+  xy: 76, 5
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+nan3_tuo
+  rotate: true
+  xy: 561, 13
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+nan3_yanbai1
+  rotate: false
+  xy: 31, 20
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+nan3_yanbai2
+  rotate: false
+  xy: 63, 25
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+nan3_yanzhu1
+  rotate: true
+  xy: 31, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+nan3_yanzhu2
+  rotate: true
+  xy: 54, 4
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+nan3_yaodai
+  rotate: true
+  xy: 250, 8
+  size: 61, 120
+  orig: 61, 120
+  offset: 0, 0
+  index: -1
